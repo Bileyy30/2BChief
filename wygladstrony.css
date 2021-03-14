@@ -1,0 +1,44 @@
+*{margin: 0; padding: 0}
+
+body{background-color: yellow}
+h1{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 15px;
+    margin: 0 10% 20px 10%;
+}
+#main {
+    max-width: 1920px;
+    margin: 0 auto;
+    background-color: white
+}
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:25%;
+}
+
+#sklad{
+    float: left;
+}
+nav{
+    background-color: black;
+}
+nav a{
+    
+}
+a.klik {
+    display: inline-block;
+        width: 20%;
+    padding: 15px 30px 15px 30px;
+    color:deeppink;
+    text-decoration:none;
+    text-align: center;
+}
+a.klik:hover {font-size: 20px}
+
+#b {
+    text-align: left;
+    font-size: 25px;
+}

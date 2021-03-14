@@ -1,0 +1,36 @@
+*{margin: 0; padding: 0}
+
+body{background-color:darkolivegreen}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue;
+    background-color:blue;
+}
+
+h2{
+    font-size: 28px;
+    color:black;
+    text-align: center;
+}
+#franklin{
+    display: block;
+      margin-left: auto;
+  margin-right: auto;
+}
+#cohan{
+        display: block;
+      margin-left: auto;
+  margin-right: auto;
+}
+#larry{
+        display: block;
+      margin-left: auto;
+  margin-right: auto;
+}
+#dwaj{
+        display: block;
+      margin-left: auto;
+  margin-right: auto;
+}

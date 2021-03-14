@@ -1,0 +1,76 @@
+*{margin: 0; padding: 0}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color:darkgoldenrod;
+}
+    h2{
+        font-size: 35px;
+        color:aliceblue;
+    }
+h3{
+    font-size: 35px;
+    color:aliceblue;
+}
+h4{
+    font-size: 35px;
+    color:aliceblue;
+    
+}
+h5{
+    font-size: 35px;
+    color: aquamarine;
+}
+h6{
+    font-size: 35px;
+    color: black;
+}
+#jeden{
+    padding-bottom: 100px;
+    color: white;
+    font-size: 25px;
+    text-align: left;
+}
+#dwa{
+    padding-bottom: 25px;
+    color: aqua;
+    font-size: 25px;
+    text-align: right;
+}
+#trzy{
+    padding-bottom: 25px;
+    color:blueviolet;
+    font-size: 25px;
+    text-align: inherit;
+    
+}
+#cztery{
+    padding-bottom: 25px;
+    color:darkslateblue;
+    font-size: 25px;
+    
+}
+#piec{
+    padding-bottom: 25px;
+    color:whitesmoke;
+    font-size: 25px;
+}
+#joe{
+    float: left;
+}
+#rick{
+    float:right;
+}
+#nate{
+    float:left;
+}
+#curry{
+    float:left;
+}
+#green{
+    float:right;
+}
+#klay{
+    float:right;
+}
+body{background-color: orange}

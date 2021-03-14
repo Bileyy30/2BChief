@@ -1,0 +1,43 @@
+*{margin: 0; padding: 0}
+
+body{background-color:dimgray}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    color: darkkhaki;
+}
+h2{
+    text-align: center;
+    font-size: 28px;
+    color: blueviolet;
+    background-color: aliceblue;
+}
+
+
+
+
+#jeden{
+        display: block;
+      margin-left: auto;
+  margin-right: auto;
+    width: 50%;
+}
+#dwa{
+        display: block;
+      margin-left: auto;
+  margin-right: auto;
+    width: 50%;
+}
+#trzy{
+        display: block;
+      margin-left: auto;
+  margin-right: auto;
+    width: 50%;
+}
+#cztery{
+        display: block;
+      margin-left: auto;
+  margin-right: auto;
+    width: 50%;
+}
