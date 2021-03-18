@@ -1,16 +1,35 @@
 *{margin: 0; padding: 0}
 
-body{background-color: yellow}
+
 h1{
     text-align: center;
     font-size: 30px;
     padding-bottom: 15px;
     margin: 0 10% 20px 10%;
 }
+footer{
+    text-align: center;
+    font-size: 12px;
+    font-family:cursive;
+    
+}
+#logo{
+    width:20%;
+    min-height:100px;
+    
+}
 #main {
     max-width: 1920px;
     margin: 0 auto;
     background-color: white
+}
+.foto{
+    background-color: white;
+    float:left;
+    padding-left: 40%;
+    padding-right: 40%;
+    width: 20%;
+    padding-top: 10px;
 }
 .center{
     display:block;
@@ -25,9 +44,7 @@ h1{
 nav{
     background-color: black;
 }
-nav a{
-    
-}
+
 a.klik {
     display: inline-block;
         width: 20%;
@@ -41,4 +58,6 @@ a.klik:hover {font-size: 20px}
 #b {
     text-align: left;
     font-size: 25px;
+    margin-left:10px; 
+margin-right: 10px;
 }

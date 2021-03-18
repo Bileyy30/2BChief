@@ -5,6 +5,12 @@ h1{
     color: aliceblue;
     background-color: aqua;
 }
+#logo{
+    width:20%;
+    min-height:100px;
+    display: block;
+    text-align: center;
+}
 h2{
     text-align: center;
     font-size: 30px;

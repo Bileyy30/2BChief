@@ -13,7 +13,12 @@ h2{
     color: blueviolet;
     background-color: aliceblue;
 }
-
+#logo{
+    width:20%;
+    min-height:100px;
+    display: block;
+    text-align: center;
+}
 
 
 

@@ -1,0 +1,12 @@
+body{background-color: lightblue}
+table, th, td{
+border:1px solid red;
+    text-align: center;
+}
+#logo{
+    width:20%;
+    min-height:100px;
+    display: block;
+    text-align: center;
+    padding-bottom: 50px;
+}

@@ -8,6 +8,12 @@ h1{
         font-size: 35px;
         color:aliceblue;
     }
+#logo{
+    width:20%;
+    min-height:100px;
+    display: block;
+    text-align: center;
+}
 h3{
     font-size: 35px;
     color:aliceblue;
@@ -30,30 +36,34 @@ h6{
     color: white;
     font-size: 25px;
     text-align: left;
+    font-family:serif;
 }
 #dwa{
     padding-bottom: 25px;
     color: aqua;
     font-size: 25px;
     text-align: right;
+    font-family:serif;
 }
 #trzy{
     padding-bottom: 25px;
     color:blueviolet;
     font-size: 25px;
     text-align: inherit;
+    font-family:serif;
     
 }
 #cztery{
     padding-bottom: 25px;
     color:darkslateblue;
     font-size: 25px;
-    
+    font-family:serif;
 }
 #piec{
     padding-bottom: 25px;
     color:whitesmoke;
     font-size: 25px;
+    font-family:serif;
 }
 #joe{
     float: left;

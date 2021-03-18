@@ -1,0 +1,11 @@
+table, th, td{
+border:5px solid pink;
+    text-align: center;
+}
+body{background-color:forestgreen}
+#logo{
+    width:20%;
+    min-height:100px;
+    display: block;
+    text-align: center;
+}

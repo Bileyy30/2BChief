@@ -1,0 +1,13 @@
+table, th, td{
+border:2px solid blue;
+    text-align: center;
+padding:15px;
+}
+#logo{
+    width:20%;
+    min-height:100px;
+    display: block;
+    text-align: center;
+    padding-bottom: 50px;
+}
+body{background-color:lightyellow}

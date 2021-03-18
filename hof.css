@@ -1,0 +1,15 @@
+body{background-color: darkgoldenrod}
+
+
+#logo{
+    width:20%;
+    min-height:100px;
+    display: block;
+    text-align: center;
+    padding-bottom: 30px;
+}
+#tabela{
+    text-align: center;
+    font-size: 20px;
+    font-family:Georgia;
+}
